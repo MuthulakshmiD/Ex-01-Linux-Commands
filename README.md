@@ -1,6 +1,5 @@
 # Ex-01-Linux-Commands
 
-
 ## Aim:
 
 To study the execution of various Linux operating system commands.
