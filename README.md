@@ -198,6 +198,7 @@ Syntax: make [-f makefile][options]…….[targets]….
 The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
+![Screenshot 2025-03-11 135616](https://github.com/user-attachments/assets/fab696e8-3d91-433d-9c8c-8fa6094b7b9b)
 
 
 
